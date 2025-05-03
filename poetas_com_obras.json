@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Eliot",
+    "nacionalidade": "Inglês",
+    "obras": [
+      {
+        "título": "Four Quartets",
+        "ano": 1943
+      },
+      {
+        "título": "The waste land",
+        "ano": 1922
+      }
+    ]
+  },
+  {
+    "nome": "Milton",
+    "nacionalidade": "Inglês",
+    "obras": [
+      {
+        "título": "Paradise Lost",
+        "ano": 1667
+      }
+    ]
+  }
+]

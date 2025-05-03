@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Eliot",
+    "idade": 45,
+    "profissão": "poeta"
+  },
+  {
+    "nome": "Frost",
+    "idade": 50,
+    "profissão": "poeta"
+  },
+  {
+    "nome": "Frost",
+    "idade": 60,
+    "profissão": "teólogo"
+  }
+]
